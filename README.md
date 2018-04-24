@@ -1,0 +1,2 @@
+In this assignment, we learned how to create an Express server that responds to get and post requests and uses middleware. We also created a form that posts to a route on the express server and posted the values from the form to a json file on the server.
+ 
